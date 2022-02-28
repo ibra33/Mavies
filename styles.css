@@ -1,0 +1,47 @@
+body{
+  background-color: #1C658C;
+  }
+  hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: #E5E3C9;
+   border-width: 8px;
+   width: 8%;
+  }
+
+  h1{
+    color: #E5E3C9;
+    font-family: Papyrus,fantasy;
+    font-size: 50px;
+
+  }
+  h3{
+    color: #E5E3C9;
+    font-family: Papyrus,fantasy;
+  }
+
+  p{
+    color: #E5E3C9;
+    font-family: Papyrus,fantasy;
+  }
+
+  table{
+    color: #E5E3C9;
+    font-family: Papyrus,fantasy;
+  }
+
+  ul{
+    color: #E5E3C9;
+    font-family: Papyrus,fantasy;
+  }
+
+  a{
+    color: #E5E3C9;
+    font-family: Papyrus,fantasy;
+  }
+  a:link{
+    text-decoration: none;
+  }
+  a:hover{
+    color: #B4CFB0;
+  }
